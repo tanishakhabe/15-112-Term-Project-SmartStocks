@@ -7,3 +7,5 @@ In my project, I am using the CMU Graphics library and PIL. You will also have t
 Any shortcut commands (such as a command to access the favorites or the command to view graphs) that can be used to navigate throughout the app will be displayed on the bottom of the screens. However, one feature is that when you are viewing any normally displayed graph, you can click on any point on the line graph of prices, and it will zoom in on the specific line segment in a pop-up box. 
 
 The font I am using, 'monospace', does not have to be installed since it comes with CMU Graphics. 
+
+https://youtu.be/3eq213bQ9BI
